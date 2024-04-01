@@ -6,7 +6,6 @@ Team Leader and Senior Software Developer @ Santhila Databot Private Ltd
 
 With over 6 years of hands-on experience in software development, I bring a wealth of expertise to the table as a seasoned professional. Currently serving as a dynamic team leader, I have successfully led and contributed to a myriad of projects, demonstrating proficiency in the entire software development lifecycle. My commitment to delivering high-quality solutions is underscored by a track record of effective leadership and a comprehensive understanding of diverse technologies and programming languages.
 
-
 <br/><br/>
 ## About Me
 
