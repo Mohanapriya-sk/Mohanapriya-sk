@@ -34,7 +34,7 @@ I code in:
 
 ## GitHub Stats
 
-![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanapriya-sk&theme=dark&show_icons=true&&hide=issues,contribs)
+![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanapriya-sk&theme=dark&show_icons=true&&hide=issues)
 
 
 ## GitHub Activity Graph
