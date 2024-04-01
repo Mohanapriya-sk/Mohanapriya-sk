@@ -14,8 +14,8 @@ I thrive in collaborative environments and am passionate about mentoring junior 
 ## Contact Me
 
 - **Email:** mohanapriya.teamlead@gmail.com
-- **LinkedIn:** [Mohanapriya Sivakumar](https://www.linkedin.com/in/Mohanapriya-sk/)
-
+- **Reach Me:**
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Mohanapriya-sk/)
               
 ## Fun Facts
 
@@ -34,7 +34,7 @@ I code in:
 
 ## GitHub Stats
 
-![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanapriya-sk&theme=dark&show_icons=true&&hide=issues)
+![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanapriya-sk&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 ## GitHub Activity Graph
