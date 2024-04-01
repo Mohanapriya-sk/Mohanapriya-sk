@@ -35,9 +35,9 @@ I code in:
 
 ## GitHub Stats
 
-![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhiladatabot&theme=dark&show_icons=true&&hide=issues,contribs)
+![Mohanapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanapriya-sk&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 ## GitHub Activity Graph
 
-[![Mohanapriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=santhiladatabot&bg_color=080808&color=fafafa&line=ea99e5&point=f3f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohanapriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohanapriya-sk&bg_color=080808&color=fafafa&line=ea99e5&point=f3f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
