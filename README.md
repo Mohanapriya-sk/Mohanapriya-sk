@@ -16,7 +16,9 @@ With over 6 years of hands-on experience in software development, I bring a weal
 
 - **Email:** mohanapriya.teamlead@gmail.com
 - **LinkedIn:** [Mohanapriya S](https://www.linkedin.com/in/Mohanapriya-sk/)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mohanapriya-sk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mohanapriya-sk?trk=profile-badge">Mohanapriya Sivakumar</a></div>
+              
 ## Fun Facts
 
 - **Pronouns:** Techie
